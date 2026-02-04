@@ -8,7 +8,7 @@ This project is for coding in my made up language and the system comiles it into
 TinkoMass is more than just a programming language — it’s a **tool to build your own OS**!  
 Here’s how you can do it step by step.
 
-### 1️⃣ Write your OS code in TinkoMass
+### Write your OS code in TinkoMass
 - Create a `.mass` file
 - Use built-in functions like:
   ```mass
